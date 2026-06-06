@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "明清笑話 코퍼스 (xiaohua-corpus)"
+message: "이 코퍼스를 사용하면 아래 정보로 인용해 주세요. 사용한 release 버전을 명시할 것."
+type: dataset
+authors:
+  - family-names: ""        # 성
+    given-names: ""         # 이름
+    affiliation: "고려대학교 중국학연구소"
+version: "0.1.0"
+date-released: "2026-01-01"
+url: "https://github.com/<user>/xiaohua-corpus"
+# Zenodo 연동 후 발급된 DOI를 아래에 기입
+# doi: 10.5281/zenodo.XXXXXXX
+license: "CC-BY-NC-4.0"

@@ -1,0 +1,45 @@
+# 편집 조작 통제 어휘 (editorial operations controlled vocabulary)
+#
+# 각 이본의 operations 필드는 아래 키만 사용한다.
+# 새 조작 유형이 필요하면 여기 먼저 등록하고 codebook.md에 정의를 남길 것.
+# 이 어휘가 단순형 → 현재화의 경험적 측정 단위가 된다.
+
+FRAME_ADD:
+  label: 서사 틀 추가
+  desc: 도입·상황 설정 등 서사적 액자를 덧붙여 핵심 농담을 감싼다.
+
+NAME_SUB:
+  label: 명칭 치환
+  desc: 인물명·지명·관직명을 다른 것으로 바꾼다.
+
+COMMENT_ADD:
+  label: 편자 평 부가
+  desc: 본문과 구별되는 편자의 평(評)을 덧붙인다 (예: 馮夢龍의 평).
+
+MORAL_APPEND:
+  label: 교훈 부가
+  desc: 결말에 교훈적·논평적 마무리를 붙인다.
+
+DIALOGUE_EXP:
+  label: 대화 확장
+  desc: 직접 대화를 늘리거나 새 대사를 삽입한다.
+
+ABRIDGE:
+  label: 축약
+  desc: 본문을 줄이거나 군더더기를 덜어낸다.
+
+ELABORATE:
+  label: 부연
+  desc: 묘사·설명을 늘려 본문을 부풀린다.
+
+ORDER_CHANGE:
+  label: 배열 변경
+  desc: 선집 내 항목 순서·문장 순서를 바꾼다.
+
+TITLE_CHANGE:
+  label: 표제 변경
+  desc: 항목 제목을 신설·수정한다.
+
+REGISTER_SHIFT:
+  label: 위계 이동
+  desc: 雅↔俗 등 문체·언어 위계를 옮긴다 (예: 문언 → 백화).

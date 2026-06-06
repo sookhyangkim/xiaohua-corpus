@@ -1,0 +1,15 @@
+LICENSE — 레이어 분리 (dual-layer)
+
+이 저장소는 성격이 다른 두 레이어를 포함하며, 각각 다른 권리가 적용된다.
+
+1. 원문 레이어 (text_orig / text_normalized 필드)
+   전근대 한문 텍스트로 퍼블릭 도메인에 속한다. 단, 특정 영인본·교점본을
+   저본으로 삼은 경우 해당 판본 제작자의 권리가 별도로 존재할 수 있으므로,
+   schema/sources.yaml에 저본을 명시하고 이용자는 이를 확인할 책임이 있다.
+
+2. 주석 레이어 (translation_ko, notes, operations, type 기술, schema 등)
+   저자의 독자적 지적 산물이다.
+   Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+   https://creativecommons.org/licenses/by-nc/4.0/
+
+코드(scripts/)는 MIT License로 배포한다.

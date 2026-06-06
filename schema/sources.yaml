@@ -1,0 +1,31 @@
+# 저본 서지 (sources)
+#
+# witnesses의 source 필드는 아래 키를 참조한다.
+# 판본·소장처·계열(首圖本/崇禎本 등)을 명확히 기록해 교감 근거를 남긴다.
+
+xiaofu:
+  title: 笑府
+  editor: 馮夢龍
+  dynasty: 明
+  edition: ""              # 사용한 판본 명시
+  base_text: ""            # 저본(영인본·교점본 등)
+  holding: ""              # 소장처
+  notes: ""
+
+xiaolin-guangji:
+  title: 笑林廣記
+  editor: 遊戲主人 (纂輯)
+  dynasty: 清
+  edition: ""
+  base_text: ""
+  holding: ""
+  notes: ""
+
+guangxiaofu:
+  title: 廣笑府
+  editor: 馮夢龍
+  dynasty: 明
+  edition: ""
+  base_text: ""
+  holding: ""
+  notes: ""
